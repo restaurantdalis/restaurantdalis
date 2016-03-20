@@ -1,0 +1,118 @@
+body {
+	background-image: url(../images/bkgrnd.png);
+}
+
+#container{
+	background-image: url(../images/bkgrnd-sub.png);
+	width:955px;
+	background-repeat: repeat-y;
+	margin: auto;
+}
+
+#header {
+	width:955px;
+	height:88px;
+	background-image: url(../images/01.png);
+}
+
+#columna{
+	float: left;
+	width:340px;
+	background-image: url(../images/14.png);
+	background-repeat: no-repeat;
+	background-position: 0px 154px;
+}
+
+#logo {
+	width:340px;
+	height:154px;
+	background-image: url(../images/02.png);
+}
+#menu1 {
+	margin-left:84px;
+	width:205px;
+	height:41px;
+	background-image: url(../images/05.png);
+}
+
+#menu2 {
+	margin-left:84px;
+	width:205px;
+	height:38px;
+	background-image: url(../images/07.png);
+}
+
+#menu3 {
+	margin-left:84px;
+	width:205px;
+	height:39px;
+	background-image: url(../images/08.png);
+}
+
+#menu4 {
+	margin-left:84px;
+	width:205px;
+	height:38px;
+	background-image: url(../images/09.png);
+}
+
+#menu5 {
+	margin-left:84px;
+	width:205px;
+	height:43px;
+	background-image: url(../images/10.png);
+}
+
+#logo2 {
+	width:340px;
+	height:218px;
+	background-image: url(../images/11.png);
+}
+
+#cuerpo{
+	float: left;
+	width:595px;
+	padding-right: 20px;
+}
+
+#footer{
+	width:955px;
+	height:61px;
+	background-image: url(../images/13.png);
+	margin: auto;
+	background-repeat: no-repeat;
+}
+
+#autor{
+	width: 900px;
+	height:50px;
+	padding-top: 30px;
+	text-align: center;
+	color: white;
+}
+
+#autor a{
+	color: white !important;
+}
+
+#autor a:hover{
+	color: black !important;
+}
+
+.tb_menu{
+	margin-left: 10px;
+	margin-right: 5px;
+}
+.tb_descrip{
+	margin-left: 50px;
+	width: 450px;
+	background-color: #F4CA3D;
+	display: none;
+	padding: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+.specials-bx{
+	text-align: center;
+	margin:0 auto 0 auto;
